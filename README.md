@@ -55,8 +55,12 @@ API Key Setup
 Replace api_key inside PixabayState.jsx with your Pixabay API key.
 
 🖼️ Demo
-![Homepage Screenshot](./assets/homepage_ui.png)
-![Pixabay Clone ](./assets/image.png)
+![Homepage UI](https://raw.githubusercontent.com/diksharaj2005/Pixabay_Clone/main/src/assests/homepage_ui.png)
+
+
+
+![Pixabay_Clone](https://raw.githubusercontent.com/diksharaj2005/Pixabay_Clone/main/src/assests/image.png)
+
 
 📁 Folder Structure
 src/
