@@ -8,6 +8,7 @@ import Images from './components/Images'
 import Main from './components/Main'
 import LowerMain from './components/LowerMain'
 import PixabayContext from './context/PixabayContext'
+import Footer from './components/Footer'
  
 
 const App=()=>{
@@ -39,7 +40,9 @@ const App=()=>{
       </div>
       </div>
       <div><Images/></div>
-
+     <div className='footer-SECTION'>
+      <Footer />
+     </div>
     </>
   )
 }
